@@ -1,3 +1,1 @@
-hello vscode
-
-this is branching in vs code
+this is my practice session in vs code with git..

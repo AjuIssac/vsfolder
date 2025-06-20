@@ -1,3 +1,5 @@
+
+init (if first time)
 clone 
 cd
 pull

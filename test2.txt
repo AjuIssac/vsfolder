@@ -1,3 +1,1 @@
-new file created
-
-changes made in file 2 in new branch
+This creates a local branch tracking the remote one and checks it out
